@@ -11,8 +11,12 @@ Aspiring Data Analyst passionate about transforming raw data into meaningful ins
 
 ## Projects
 - Restaurant Review Analytics Dashboard
+- Startup Funding Analytics Project
+  
+
 
 ## Currently Learning
-- Advanced SQL
-- Data Visualization
+- Advanced SQL & Excel
+- Data Visualization 
 - Business Analytics
+- Python Libraries
