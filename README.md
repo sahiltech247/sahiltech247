@@ -13,6 +13,7 @@ Aspiring Data Analyst passionate about transforming raw data into meaningful ins
 ## Projects
 - Restaurant Review Analytics Dashboard
 - Startup Funding Analytics Project
+- Used Car Recommendation System
   
 
 
